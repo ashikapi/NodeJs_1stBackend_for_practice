@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_1stbackend_for_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashikapi/NodeJs_1stBackend_for_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashikapi/NodeJs_1stBackend_for_practice/issues"
+  },
+  "homepage": "https://github.com/ashikapi/NodeJs_1stBackend_for_practice#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
